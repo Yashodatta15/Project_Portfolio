@@ -3,9 +3,8 @@
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
 
 ## 📚 Table of Contents
-
 - [SQL](#sql)
-- [Machine Learning](#Machine Learning)
+- [Machine Learning](#machine learning)
 - [Tableau and PowerBi](#Tableau and PowerBi)
 
 
