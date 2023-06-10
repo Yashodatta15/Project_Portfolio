@@ -6,7 +6,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 - [SQL](#sql)
 - [Machine Learning](#Machine Learning)
-- [Tableau and PowerBi](#tableau)
+- [Tableau and PowerBi](#Tableau and PowerBi)
 
 
 
@@ -14,7 +14,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-| :truck: [Logistic_Company_Analysis](https://github.com/Yashodatta15/SQL_Project_on_Logistic_Company) | Data analysis | The logistic company analysis SQL project aims to analyze and optimize operations by leveraging database queries and statistical techniques for improved efficiency | 
+| :truck: [Logistic company analysis](https://github.com/Yashodatta15/SQL_Project_on_Logistic_Company) | Data analysis | The logistic company analysis SQL project aims to analyze and optimize operations by leveraging database queries and statistical techniques for improved efficiency | 
 
 
 ***
@@ -22,8 +22,8 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 # Machine Learning
 
 | Project Link | Area | Project Description | Model | Libraries |    
-|---|---|---|---|
-| 📺 [Top 250 anime2023 Analysis](https://github.com/Yashodatta15/Top-250-anime-2023-EDA) | Data Cleaning, Data Analysis, EDA | - | pandas, Numpy, Matplotlib, Seaborn | 
+|---|---|---|---|---|
+| 📺 [Top 250 anime2023 Analysis](https://github.com/Yashodatta15/Top-250-anime-2023-EDA) | Data Cleaning, Data Analysis, EDA | - | - |pandas, Numpy, Matplotlib, Seaborn | 
 | :factory: [Metal casting image](https://github.com/Yashodatta15/Metal-casting-product-image-classification-for-quality-inspection) |   Deep Learning | - |CNN, Logistic Regression| Pandas |   
 
 
