@@ -6,7 +6,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 - [SQL](#sql)
 - [Machine Learning](#Machine Learning)
-- [Tableau](#tableau)
+- [Tableau and PowerBi](#tableau)
 
 
 
@@ -29,7 +29,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ***
 
-# Tableau and PowerBI
+# Tableau and PowerBi
 
 | Project Link | Project Description | Project Link |
 |---|---|---|
