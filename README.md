@@ -35,7 +35,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ***
 
-# Tableau
+# Tableau and PowerBI
 
 | Project Link | Project Description | Project Link |
 |---|---|---|
