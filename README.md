@@ -14,7 +14,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-| :truck: [Logistic company analysis](https://github.com/Yashodatta15/SQL_Project_on_Logistic_Company) | Data analysis | The logistic company analysis SQL project aims to analyze and optimize operations by leveraging database queries and statistical techniques for improved efficiency | 
+| :truck: [Logistic company analysis](https://github.com/Yashodatta15/SQL_Project_on_Logistic_Company) | Data analysis | A SQL project on a logistic company would involve creating a database to manage various aspects of the company's operations, such as tracking shipments, managing inventory, and handling customer orders. | 
 
 
 ***
