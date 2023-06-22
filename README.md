@@ -25,7 +25,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 |---|---|---|---|---|
 | 📺 [Top 250 anime2023 Analysis](https://github.com/Yashodatta15/Top-250-anime-2023-EDA) | Data Cleaning, Data Analysis, EDA | In this project I builed various plot to analyze the data | - |pandas, Numpy, Matplotlib, Seaborn | 
 | :factory: [Metal casting image](https://github.com/Yashodatta15/Metal-casting-product-image-classification-for-quality-inspection) |   Deep Learning | The objective of this project is to automate the process of finding defects in the casting process. |CNN, Logistic Regression| Keras, Layers, Sequential, Matplotlib |   
-| :rock: :bomb: [Sonar Rock and Mine](https://github.com/Yashodatta15/SONAR-ROCK-AND-MINE-PREDICTION) | Logistic Re | - | - | - |
+| :rock: :bomb: [Sonar Rock and Mine](https://github.com/Yashodatta15/SONAR-ROCK-AND-MINE-PREDICTION) | Data Analysis, Supervised Learning | - | Logistic Regression, Dicision Tree, Random forest  | Pandas, Numpy, Scikit-Learn |
 | :books: [Book recommendations system](https://github.com/Yashodatta15/Book-Recommendations-System) | - | - | - | - |
 
 
@@ -36,7 +36,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Project Link | Project Description | Project Link | Tool |
 |---|---|---|---|
 | 🦄 [Maven Unicorn Challenge](https://github.com/Yashodatta15/Maven_Unicorn_Challenge) | Cleansed and transformed data on privately-owned companies (start-ups) valued at over $1 billion using Python. Visualised key insights using Tableau, including the timeline of valuations, the top 10 countries and investors with the highest valuations, the most successful unicorns, and the average time it takes to reach a $1 billion valuation. | [Link](https://github.com/Yashodatta15/Maven_Unicorn_Challenge) | PowerBi |
-|:bank:[FINANCIAL COMPALINTS](https://github.com/Yashodatta15/FINANCIAL-COMPALINTS) | - | - | Tableau |
+|:bank: [FINANCIAL COMPALINTS](https://github.com/Yashodatta15/FINANCIAL-COMPALINTS) | It is critical to analyses customer complaint data to determine the root reasons of consumer unhappiness and make necessary modifications. By analyzing, how intelligent computing may be utilized to better understand and enhance public services through analysis using Tableau Interactive Dashboard. | - | Tableau |
 
 
 ***
