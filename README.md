@@ -36,6 +36,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Project Link | Project Description | Project Link | Tool |
 |---|---|---|---|
 | 🦄 [Maven Unicorn Challenge](https://github.com/Yashodatta15/Maven_Unicorn_Challenge) | Cleansed and transformed data on privately-owned companies (start-ups) valued at over $1 billion using Python. Visualised key insights using Tableau, including the timeline of valuations, the top 10 countries and investors with the highest valuations, the most successful unicorns, and the average time it takes to reach a $1 billion valuation. | [Link](https://github.com/Yashodatta15/Maven_Unicorn_Challenge) | PowerBi |
+|:bank:[FINANCIAL COMPALINTS](https://github.com/Yashodatta15/FINANCIAL-COMPALINTS) | - | - | Tableau |
 
 
 ***
