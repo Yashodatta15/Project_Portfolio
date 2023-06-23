@@ -25,7 +25,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 |---|---|---|---|---|
 | 📺 [Top 250 anime2023 Analysis](https://github.com/Yashodatta15/Top-250-anime-2023-EDA) | Data Cleaning, Data Analysis, EDA | In this project I builed various plot to analyze the data | - |pandas, Numpy, Matplotlib, Seaborn | 
 | :factory: [Metal casting image](https://github.com/Yashodatta15/Metal-casting-product-image-classification-for-quality-inspection) |   Deep Learning | The objective of this project is to automate the process of finding defects in the casting process. |CNN, Logistic Regression| Keras, Layers, Sequential, Matplotlib |   
-| :rock: :bomb: [Sonar Rock and Mine](https://github.com/Yashodatta15/SONAR-ROCK-AND-MINE-PREDICTION) | Data Analysis, Supervised Learning | - | Logistic Regression, Dicision Tree, Random forest  | Pandas, Numpy, Scikit-Learn |
+| :rock: :bomb: [Sonar Rock and Mine](https://github.com/Yashodatta15/SONAR-ROCK-AND-MINE-PREDICTION) | Data Analysis, Supervised Learning | The objective of this project is to create an advanced machine learning system capable of accurately distinguishing between rocks and mines in submarine environments, with the aim of enhancing submarine safety by minimizing the occurrence of misidentifications and potential accidents. | Logistic Regression, Dicision Tree, Random forest  | Pandas, Numpy, Scikit-Learn |
 | :books: [Book recommendations system](https://github.com/Yashodatta15/Book-Recommendations-System) | - | - | - | - |
 
 
