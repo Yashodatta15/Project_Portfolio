@@ -4,7 +4,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ## 📚 Table of Contents
 - [SQL](#sql)
-- [Machine Learning](#machine-learning)
+- [Machine/Deep Learning](#machine-Deep-learning)
 - [Tableau and PowerBi](#tableau-and-powerbi)
 
 
@@ -19,7 +19,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ***
 
-# Machine Learning
+# Machine/Deep Learning
 
 | Project Link | Area | Project Description | Model | Libraries |    
 |---|---|---|---|---|
