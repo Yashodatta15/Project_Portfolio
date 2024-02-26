@@ -29,6 +29,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | :books: [Book recommendations system](https://github.com/Yashodatta15/Book_Recommendations_System) | Supervised Learining | The Book Recommendation System with Cosine Similarity suggests personalized book recommendations based on user preferences, using cosine similarity to measure book feature similarity. | cosine similarity | Pandas, Numpy, Scikit-Learn |
 | 💗 [Heart_disease_project](https://github.com/Yashodatta15/Heart_disease_project) | Data Analysis, Supervised Learning  | A machine learning model for heart disease prediction using patient data. | Logistic Regression, DecisionTreeClassifier, RandomForestClassifier, KNeighborsClassifier, SVC | Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn |
 |🎐 [Maintenance Cost Minimization of Machinery for Wind Energy Production](https://github.com/Yashodatta15/Maintenance-Cost-Minimization-of-Machinery-for-Wind-Energy-Production-Using-Machine-Learning) | Data Cleaning, Data Analysis, EDA, Supervised Learning | ML-based solution predicts wind turbine machine failure ahead of time for a renewable energy company, maximizing recall to minimize expensive replacements. Final model is XGBoost Classifier trained on original data  | LogisticRegression, DecisionTreeClassifier, RandomForestClassifier, AdaBoostClassifier, GradientBoostingClassifier, BaggingClassifier | Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn |
+|[Stock-price-predication] | - |- |- |- |
 
 
 ***
