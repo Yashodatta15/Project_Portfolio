@@ -29,8 +29,8 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | :books: [Book recommendations system](https://github.com/Yashodatta15/Book_Recommendations_System) | Supervised Learining | The Book Recommendation System with Cosine Similarity suggests personalized book recommendations based on user preferences, using cosine similarity to measure book feature similarity. | cosine similarity | Pandas, Numpy, Scikit-Learn |
 | 💗 [Heart_disease_project](https://github.com/Yashodatta15/Heart_disease_project) | Data Analysis, Supervised Learning  | A machine learning model for heart disease prediction using patient data. | Logistic Regression, DecisionTreeClassifier, RandomForestClassifier, KNeighborsClassifier, SVC | Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn |
 |🎐 [Maintenance Cost Minimization of Machinery for Wind Energy Production](https://github.com/Yashodatta15/Maintenance-Cost-Minimization-of-Machinery-for-Wind-Energy-Production-Using-Machine-Learning) | Data Cleaning, Data Analysis, EDA, Supervised Learning | ML-based solution predicts wind turbine machine failure ahead of time for a renewable energy company, maximizing recall to minimize expensive replacements. Final model is XGBoost Classifier trained on original data  | LogisticRegression, DecisionTreeClassifier, RandomForestClassifier, AdaBoostClassifier, GradientBoostingClassifier, BaggingClassifier | Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn |
-|💹[Stock-price-predication] | - |- |- |- |
-|✍️[Handwritten Digit Recognition] |-|-|-|
+|💹[Stock-price-predication](https://github.com/Yashodatta15/Stock-price-predication-) | Time Series |- |- |- |
+|✍️[Handwritten Digit Recognition](https://github.com/Yashodatta15/Handwritten-Digit-recognition) |Deep Learning|-|-|
 
 
 
@@ -42,7 +42,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 |---|---|---|---|
 | 🦄 [Maven Unicorn Challenge](https://github.com/Yashodatta15/Maven_Unicorn_Challenge) | Cleansed and transformed data on privately-owned companies (start-ups) valued at over $1 billion using Python. Visualised key insights using Tableau, including the timeline of valuations, the top 10 countries and investors with the highest valuations, the most successful unicorns, and the average time it takes to reach a $1 billion valuation. | [Link](https://github.com/Yashodatta15/Maven_Unicorn_Challenge) | PowerBi |
 |:bank: [FINANCIAL COMPALINTS](https://github.com/Yashodatta15/FINANCIAL-COMPALINTS) | It is critical to analyses customer complaint data to determine the root reasons of consumer unhappiness and make necessary modifications. By analyzing, how intelligent computing may be utilized to better understand and enhance public services through analysis using Tableau Interactive Dashboard. | [Link](https://github.com/Yashodatta15/FINANCIAL-COMPLAINTS) | Tableau |
-|💊 [Pharma Sales Dashboard(PSYLIQ internship] |-|-|-|
+|💊 [Pharma Sales Dashboard(PSYLIQ internship](https://github.com/Yashodatta15/Pharma-Sales-Dashboard) |-|-|-|
 |🔫[terrorism dashboard]
 
 ***
