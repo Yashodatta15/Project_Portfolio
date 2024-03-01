@@ -52,7 +52,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Project Link | Area | Project Description | Libraries | 
 |---|---|---|---|
 | 📺 [Top 250 anime2023 Analysis](https://github.com/Yashodatta15/Top-250-anime-2023-EDA) | Data Cleaning, Data Analysis, EDA | In this project I builed various plot to analyze the data | pandas, Numpy, Matplotlib, Seaborn | 
-| 🎮 [Rock-Paper-Scissor Game](https://github.com/Yashodatta15/Rock-Paper-Scissor-Game) | Programming | - | - |
+| 🎮 [Rock-Paper-Scissor Game](https://github.com/Yashodatta15/Rock-Paper-Scissor-Game) | Programming | Python implementation of Rock, Paper, Scissors game where users play against the computer for 5 rounds, with score tracking and winner declaration. Users input their choice (r/p/s) and results of each round are displayed, concluding with the overall winner. | - |
 |🎥 [Youtube Streamer Analysis(INTERN internship)](https://github.com/Yashodatta15/Youtube-Streamer-Analysis) | Data Cleaning, Data Analysis, EDA | The initial exploration of the YouTube dataset revealed valuable insights into the structure and characteristics of the top 1000 YouTubers. Key observations include identifying trends in content categories, exploring audience distribution by country, and analyzing performance metrics. | Pandas, Numpy, Matplotlib, Seaborn | 
 ***
 
