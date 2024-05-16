@@ -16,6 +16,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
 | :truck: [Logistic company analysis](https://github.com/Yashodatta15/SQL_Project_on_Logistic_Company) | Data analysis | A SQL project on a logistic company would involve creating a database to manage various aspects of the company's operations, such as tracking shipments, managing inventory, and handling customer orders. | 
+|🛵🍛[Swiggy Project](https://github.com/Yashodatta15/Swiggy_Project) | Data analysis | My project on Swiggy analysis in SQL explores consumer preferences and order trends within the food delivery platform.|
 
 
 ***
@@ -45,6 +46,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 |:bank: [FINANCIAL COMPALINTS](https://github.com/Yashodatta15/FINANCIAL-COMPALINTS) | It is critical to analyses customer complaint data to determine the root reasons of consumer unhappiness and make necessary modifications. By analyzing, how intelligent computing may be utilized to better understand and enhance public services through analysis using Tableau Interactive Dashboard. | [Link](https://github.com/Yashodatta15/FINANCIAL-COMPLAINTS) | Tableau |
 |💊 [Pharma Sales Dashboard(PSYLIQ internship)](https://github.com/Yashodatta15/Pharma-Sales-Dashboard) |Spanning from 2017 to 2022, this dashboard unravels insights into a pharma company across diverse dimensions. It boosts a user-friendly Parametric range,allowing users to customize their Top Products. |[Link](https://github.com/Yashodatta15/Pharma-Sales-Dashboard)|PowerBI|
 |🔫 [Terrorism Dashboard(INTERN internship)](https://github.com/Yashodatta15/Terrorism-Dashboard) | Developed an interactive global terrorism dashboard using Power BI. Provided valuable insights into terrorism trends and patterns. Supported informed decision-making to mitigate the impact of terrorism worldwide. | [Link](https://github.com/Yashodatta15/Terrorism-Dashboard) | PowerBI |
+|🎼 [Spotify Dashborad](https://github.com/Yashodatta15/Spotify_Dashborad) | Crafting a dynamic Spotify dashboard in Power BI to visualize music trends and user engagement. |  [Link](https://github.com/Yashodatta15/Spotify_Dashborad) | PowerBI |
 
 ***
 
