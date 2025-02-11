@@ -41,8 +41,9 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 # Gen-AI
 
-| Project Link | Area | Project Description | Model | Libraries |    
-|---|---|---|---|---|
+| Project Link | Area | Project Description | Tool |    
+|---|---|---|---|
+| 📧Personal_cold_email_generator | Gen-AI | The 'Personal Cold Email Generator' is a project that creates personalized and effective cold emails using AI and advanced text processing techniques.| streamlit, llm, langchain, chromadb |
 
 
 
