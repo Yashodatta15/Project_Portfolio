@@ -5,6 +5,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 ## 📚 Table of Contents
 - [SQL](#sql)
 - [Machine/ Deep Learning](#machine-Deep-learning)
+- [Gen-AI](#Gen-AI)
 - [Tableau and PowerBi](#tableau-and-powerbi)
 - [Python](#python)
 
@@ -33,6 +34,15 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 |💹[Stock Price Predication(PSYLIQ internship)](https://github.com/Yashodatta15/Stock-price-predication-) | Time Series |This project employs machine leraning, specifically LSTM network, to predict stock price using the NSE-TATA GLOBAL dataset. The code encompasses data preprocessing, model training, evaluation, and visualization, offeringg a comprehensive approch to time series forecasting in finance. |LSTM |Pandas, Numpy, Matplotlib, Keras |
 |✍️[Handwritten Digit Recognition(PSYLIQ internship)](https://github.com/Yashodatta15/Handwritten-Digit-recognition) |Deep Learning|This project focuses on Handwritten Digit Recognition using a Neural Network, employing the MNIST dataset. By leveraging the power of machine learning, we aim to unravel the complexities of digit classification and offer insights into the practical implementation of image recognition systems.|Neural Network|Pandas, Numpy, Matplotlib, Tensorflow, CV2 |
 |😀😔[Sentiment Analysis Using LSTM](https://github.com/Yashodatta15/Sentiment-Analysis-Using-LSTM) | NLP | This project utilizes LSTM networks for sentiment analysis, a type of RNN designed to capture dependencies over time. By training on large datasets of text with associated sentiment labels, the LSTM model learns to classify text into positive, negative, or neutral sentiment categories with high accuracy. | LSTM | Tensorflow, keras |
+
+
+
+***
+
+# Gen-AI
+
+| Project Link | Area | Project Description | Model | Libraries |    
+|---|---|---|---|---|
 
 
 
