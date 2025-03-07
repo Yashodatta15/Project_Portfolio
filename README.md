@@ -44,6 +44,8 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Project Link | Area | Project Description | Tool |    
 |---|---|---|---|
 | 📧[Personal_cold_email_generator](https://github.com/Yashodatta15/Personal_cold_email_generator) | Gen-AI | The 'Personal Cold Email Generator' is a project that creates personalized and effective cold emails using AI and advanced text processing techniques.| streamlit, llm, langchain, chromadb |
+| 🤖[Deepseek_chatbot_model](https://github.com/Yashodatta15/Deepseek_chatbot_model) | Gen-AI |It enables users to upload PDF, TXT, and CSV documents, process them into vector embeddings, and ask questions based on the document's content using an AI-driven chatbot.| Streamlit , LangChain, FAISS , DeepSeek |
+
 
 
 
