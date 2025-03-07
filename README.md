@@ -58,6 +58,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 |💊 [Pharma Sales Dashboard(PSYLIQ internship)](https://github.com/Yashodatta15/Pharma-Sales-Dashboard) |Spanning from 2017 to 2022, this dashboard unravels insights into a pharma company across diverse dimensions. It boosts a user-friendly Parametric range,allowing users to customize their Top Products. |[Link](https://github.com/Yashodatta15/Pharma-Sales-Dashboard)|PowerBI|
 |🔫 [Terrorism Dashboard(INTERN internship)](https://github.com/Yashodatta15/Terrorism-Dashboard) | Developed an interactive global terrorism dashboard using Power BI. Provided valuable insights into terrorism trends and patterns. Supported informed decision-making to mitigate the impact of terrorism worldwide. | [Link](https://github.com/Yashodatta15/Terrorism-Dashboard) | PowerBI |
 |🎼 [Spotify Dashborad](https://github.com/Yashodatta15/Spotify_Dashborad) | Crafting a dynamic Spotify dashboard in Power BI to visualize music trends and user engagement. |  [Link](https://github.com/Yashodatta15/Spotify_Dashborad) | PowerBI |
+|💹 [Sales_Profit_dashboard](https://github.com/Yashodatta15/Sales_Profit_dashboard) | The Sales and Profit Dashboard provides insights into sales performance and profitability through interactive visualizations and analytics. |  [Link](Sales_Profit_dashboard) | PowerBI |
 
 ***
 
